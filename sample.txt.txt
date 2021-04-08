@@ -1,1 +1,5 @@
 this is my sample code.this is for learning code
+git commands i learned
+git init
+git add
+git commit
