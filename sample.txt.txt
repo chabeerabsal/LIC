@@ -1,5 +1,9 @@
-this is my sample code.this is for learning code
-git commands i learned
-git init
-git add
-git commit
+
+<html>
+<head>
+<body>
+<h1>ok go ahead git learning comming week </h1>
+</body>
+</head>
+<?html
+
